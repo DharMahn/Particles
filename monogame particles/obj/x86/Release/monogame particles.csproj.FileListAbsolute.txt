@@ -1,0 +1,23 @@
+C:\Users\felna\source\repos\monogame particles\monogame particles\bin\Windows\x86\Release\monogame particles.exe
+C:\Users\felna\source\repos\monogame particles\monogame particles\bin\Windows\x86\Release\monogame particles.pdb
+C:\Users\felna\source\repos\monogame particles\monogame particles\bin\Windows\x86\Release\MonoGame.Framework.dll
+C:\Users\felna\source\repos\monogame particles\monogame particles\bin\Windows\x86\Release\SharpDX.MediaFoundation.dll
+C:\Users\felna\source\repos\monogame particles\monogame particles\bin\Windows\x86\Release\SharpDX.dll
+C:\Users\felna\source\repos\monogame particles\monogame particles\bin\Windows\x86\Release\SharpDX.XAudio2.dll
+C:\Users\felna\source\repos\monogame particles\monogame particles\bin\Windows\x86\Release\SharpDX.DXGI.dll
+C:\Users\felna\source\repos\monogame particles\monogame particles\bin\Windows\x86\Release\SharpDX.Direct3D11.dll
+C:\Users\felna\source\repos\monogame particles\monogame particles\bin\Windows\x86\Release\SharpDX.Direct2D1.dll
+C:\Users\felna\source\repos\monogame particles\monogame particles\bin\Windows\x86\Release\SharpDX.XInput.dll
+C:\Users\felna\source\repos\monogame particles\monogame particles\bin\Windows\x86\Release\MonoGame.Framework.xml
+C:\Users\felna\source\repos\monogame particles\monogame particles\bin\Windows\x86\Release\SharpDX.MediaFoundation.xml
+C:\Users\felna\source\repos\monogame particles\monogame particles\bin\Windows\x86\Release\SharpDX.xml
+C:\Users\felna\source\repos\monogame particles\monogame particles\bin\Windows\x86\Release\SharpDX.XAudio2.xml
+C:\Users\felna\source\repos\monogame particles\monogame particles\bin\Windows\x86\Release\SharpDX.DXGI.xml
+C:\Users\felna\source\repos\monogame particles\monogame particles\bin\Windows\x86\Release\SharpDX.Direct3D11.xml
+C:\Users\felna\source\repos\monogame particles\monogame particles\bin\Windows\x86\Release\SharpDX.Direct2D1.xml
+C:\Users\felna\source\repos\monogame particles\monogame particles\bin\Windows\x86\Release\SharpDX.XInput.xml
+C:\Users\felna\source\repos\monogame particles\monogame particles\obj\x86\Release\monogame particles.csprojAssemblyReference.cache
+C:\Users\felna\source\repos\monogame particles\monogame particles\obj\x86\Release\monogame particles.csproj.CoreCompileInputs.cache
+C:\Users\felna\source\repos\monogame particles\monogame particles\obj\x86\Release\monogame particles.csproj.CopyComplete
+C:\Users\felna\source\repos\monogame particles\monogame particles\obj\x86\Release\monogame particles.exe
+C:\Users\felna\source\repos\monogame particles\monogame particles\obj\x86\Release\monogame particles.pdb
